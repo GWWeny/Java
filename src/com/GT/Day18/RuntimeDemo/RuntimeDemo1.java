@@ -1,4 +1,4 @@
-package com.GT.DaY18.RuntimeDemo;
+package com.GT.Day18.RuntimeDemo;
 
 public class RuntimeDemo1 {
     public static void main(String[] args) {

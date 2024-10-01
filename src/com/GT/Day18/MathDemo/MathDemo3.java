@@ -1,4 +1,4 @@
-package com.GT.DaY18.MathDemo;
+package com.GT.Day18.MathDemo;
 
 public class MathDemo3 {
     public static void main(String[] args) {
